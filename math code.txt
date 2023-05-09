@@ -1,0 +1,34 @@
+import math
+
+# Compute the square root of a number
+num = 25
+sqrt_num = math.sqrt(num)
+print("Square root of", num, "is", sqrt_num)
+
+# Compute the value of pi
+pi_value = math.pi
+print("Value of pi is", pi_value)
+
+# Compute the value of e
+e_value = math.e
+print("Value of e is", e_value)
+
+# Compute the factorial of a number
+num = 5
+factorial = math.factorial(num)
+print("Factorial of", num, "is", factorial)
+
+# Compute the sine of an angle in radians
+angle = math.pi / 4
+sine = math.sin(angle)
+print("Sine of", angle, "radians is", sine)
+
+# Compute the cosine of an angle in radians
+angle = math.pi / 3
+cosine = math.cos(angle)
+print("Cosine of", angle, "radians is", cosine)
+
+# Compute the logarithm of a number
+num = 10
+logarithm = math.log(num)
+print("Natural logarithm of", num, "is", logarithm)
